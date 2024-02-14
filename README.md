@@ -1,4 +1,6 @@
-https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Input%20text
+![이재훈 소개](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=jaehunLee%20git)
+
+
 
 
 
