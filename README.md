@@ -1,4 +1,4 @@
-![이재훈 소개](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=jaehunLee%20git)
+<!-- ![이재훈 소개](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=jaehunLee%20git) -->
 
 
 ![ljh](https://github-readme-stats.vercel.app/api?username=jaehunLee-git&show_icons=true&bg_color=00000000)
