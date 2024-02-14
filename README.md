@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/ef/26/7f/ef267f4ef01193a26b42bd798eb2a0b1.gif"  />
+<img align="right" height="150" src="https://kratikal.com/blog/wp-content/uploads/2023/02/key-click-typing-1.gif"  />
 
 ###
 
