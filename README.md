@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jaehunLee-git/jaehunLee-git/output/snake.svg" alt="Snake animation" />
+<img src="![ljh](https://github-readme-stats.vercel.app/api?username=jaehunLee-git&show_icons=true&bg_color=00000000)" />
 
 ###
