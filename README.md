@@ -1,6 +1,7 @@
 <!-- ![이재훈 소개](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=jaehunLee%20git) -->
-
+<div align = "center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joz526)](https://solved.ac/joz526/)
+<div/>
 
 ![ljh](https://github-readme-stats.vercel.app/api?username=jaehunLee-git&show_icons=true&bg_color=00000000)
 
